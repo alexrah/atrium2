@@ -1,0 +1,28 @@
+# Italian translation of HTML Mail (7.x-2.65)
+# Copyright (c) 2012 by the Italian translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML Mail (7.x-2.65)\n"
+"POT-Creation-Date: 2012-04-06 21:40+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Body"
+msgstr "Corpo"
+msgid "Subject"
+msgstr "Oggetto"
+msgid "Settings"
+msgstr "Impostazioni"
+msgid "Mail"
+msgstr "Mail"
+msgid "To"
+msgstr "A"
+msgid "Debug"
+msgstr "Debug"
+msgid "(No subject)"
+msgstr "(Nessun oggetto)"
